@@ -1,1 +1,2 @@
 # ABOUTME
+I am a versatile professional with a strong foundation in mobile and web development, proficient in front-end technologies such as HTML, CSS, JavaScript, and React, as well as mobile application development across various platforms. My expertise extends to Geographic Information Systems (GIS), where I analyze and visualize spatial data to support informed decision-making. Additionally, my professional writing skills enable me to effectively communicate complex technical concepts to diverse audiences.
